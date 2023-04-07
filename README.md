@@ -2,9 +2,8 @@
 
 ### Project information
 
-This is a project for Danzpunkten and the necessary scripts that may be needed for danzpunkten.se.
-Initially, this project will handle publication between the development environment and the production environment when it comes to the 
-Danzpunkten website."
+This is a project for Acezux systems and the necessary scripts that may be needed for Acezux systems.
+Initially, this project will handle publication between the development environment and the production environment when it comes to the to website and app development"
 
 ### Requirements
 
