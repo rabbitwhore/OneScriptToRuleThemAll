@@ -4,11 +4,11 @@ This is for new ideas and features
 
 
 ### Features
-- I want to download a git project to a specific folder
 - I want to fix so [`CloneProject`](/app//git/cloneHandler.py) uses the path inside .env
 
 
 ### Fixed features
+- ~~I want to download a git project to a specific folder~~
 - ~~Create a git commit and git push command, and it will work in the current folder im using  it~~ &check;
 - ~~Fix so if so i can use this script inside any folder with an alias and it will always now in what folder i run the command~~ &check;
 - ~~When i init a dev/prod state its creates two different folders~~ &check;
