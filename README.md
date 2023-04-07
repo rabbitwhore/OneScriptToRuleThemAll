@@ -1,0 +1,22 @@
+## Danzpunkten's Danztool
+
+### Project information
+
+This is a project for Danzpunkten and the necessary scripts that may be needed for danzpunkten.se.
+Initially, this project will handle publication between the development environment and the production environment when it comes to the 
+Danzpunkten website."
+
+### Requirements
+
+for this project you need to install
+- **Python3** [https://www.python.org/](https://www.python.org/)
+- **Python-dotenv** (install with pip3 [https://pypi.org/project/python-dotenv/](https://pypi.org/project/python-dotenv/))
+- **Install git** [download git](https://git-scm.com/downloads)
+
+### To make it ni
+- **Ssh key Authentication** [Tutorial for authentication](ssh.md)
+- **Create an Alias for your script** [Tutorial for creating an Alias](alias.md)
+- **Access Github repos trough SSH ** [Tutorial for Github SSH](github.md)
+#### Ideas
+
+You will find ideas for this project under [thinking.md](thinking.md), it main contain swedish.
