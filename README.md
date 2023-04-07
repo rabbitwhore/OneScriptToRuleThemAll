@@ -1,4 +1,4 @@
-## Danzpunkten's Danztool
+## OneScriptToRuleThemAll
 
 ### Project information
 
