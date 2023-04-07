@@ -22,4 +22,5 @@ This is for new ideas and features
 The script will handle dev and prod state, and copy files from dev to prod, it will also copy files from prod to an archive folder where everything is zipped with a date.
 
 #### OneScriptToRuleThemAll
+HELP
 [README](README.md)
